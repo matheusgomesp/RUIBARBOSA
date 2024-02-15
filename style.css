@@ -15,3 +15,8 @@ body{
     border-style: groove;
     border-color: black;
 }
+p{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
