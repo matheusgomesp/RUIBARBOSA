@@ -22,7 +22,7 @@ p{
     color: black;
 }
 uc{
-    text-align: left;
+    text-align: center;
     font-size: 30px;
     color: black;
 }
@@ -32,5 +32,5 @@ div{
 po{
     font-size: 30px;
     color: black;
-    text-align: right;
+    text-align: center;
 }
